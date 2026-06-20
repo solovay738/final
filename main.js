@@ -18,6 +18,25 @@ const cars = [
     image: "https://www.netcarshow.com/Audi-RS7_Sportback_performance-2023-Front_Three-Quarter.78ebb386.jpg"
 },
 {
+    name: "Lamborgini urus",
+    year: "2025",
+    price: "250 000$",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqsuEIqyCPCAoR4NLO-QlUAKgaBi9IZ0YK_6EGFXCV2hogQOCDdbMXLc&s=10"
+    
+},
+{
+    name: "Audi RS5",
+    year: "2026",
+    price:"120 000$",
+    image: "https://www.topgear.com/sites/default/files/2026/03/2-Audi-RS5-review-2026.jpg"
+},
+{
+    name: "BMW M5",
+    year: "2024",
+    price: "203 000$",
+    image: "https://kolesa-uploads.ru/r/880x/e927e4de-c4f0-4f5a-ad49-935af9a0e2f3/bmw-m5-front3.jpg"
+},
+{
     name: "Porsche Panamera",
     year: "2024",
     price: "105 000$",
